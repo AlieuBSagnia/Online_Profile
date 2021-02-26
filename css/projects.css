@@ -19,6 +19,11 @@
 	margin: 0 auto;
 }
 
+.myh1{
+	text-align: center;
+	
+  }
+
 @media screen and (min-width :320px) and (max-width:568px){
 	
 	.tile {
